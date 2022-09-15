@@ -23,13 +23,11 @@
 * [051 - Удаленная работа. Часть 1](https://devopsdeflope.ru/posts/2020/051.html)
 
 ## 2019
-
 ### Доклады
 | Название | Где | Видео | Презентация |
 | - | - | - | - |
 | Применение практик Тиаго Форте для управления своими знаниями | Knowledge Conf | [YouTube](https://www.youtube.com/watch?v=kzgMyzP0Ux0&feature=youtu.be) | [pdf](https://github.com/aladmit/public/blob/main/pdfs/Применение%20практик%20Тиаго%20Форте%20для%20управления%20своими%20знаниями.pdf) |
 | Почему Trunk Based Development лучшая модель ветвления | DevOps Moscow meetup | [YouTube](https://www.youtube.com/watch?v=hIW5ynk8HWc) | [pdf](https://github.com/aladmit/public/blob/main/pdfs/Почему%20Trunk%20Based%20Development%20лучшая%20модель%20ветвления.pdf) |
-| Как начать DevOps-трансформацию | Whale Rider на РИТ++ | [YouTube](https://www.youtube.com/watch?v=voAm67851JU&feature=youtu.be) | |
 | Continuous delivery в начале 2019 года | OTUS | [YouTube](https://youtu.be/cei9N7vy_2k) | |
 
 ### Выпуски подкаста DevOps Deflope с моим участием
@@ -40,7 +38,18 @@
 * [044 - Евгений Россинский Создание новых продуктов в ivi](https://devopsdeflope.ru/posts/2019/044.html)
 
 ## 2018
+### Доклады
+| Название | Где | Видео | Презентация |
+| - | - | - | - |
+| Как начать DevOps-трансформацию | Whale Rider на РИТ++ | [YouTube](https://www.youtube.com/watch?v=voAm67851JU&feature=youtu.be) | |
+
 ### Выпуски подкаста DevOps Deflope с моим участием
 * [042 - Антон Исанин Трансформация Альфа-банк](https://devopsdeflope.ru/posts/2018/042.html)
 * [041 - Евгений Пешков Domain Driven Design](https://devopsdeflope.ru/posts/2018/041.html)
 * [040 - Leon Fayer Мониторинг бизнеса](https://devopsdeflope.ru/posts/2018/040.html)
+
+## 2017
+### Доклады
+| Название | Где | Видео | Презентация |
+| - | - | - | - |
+| Policyfile в Chef | UWDC | [Youtube](https://www.youtube.com/watch?v=ws1rc6YnqzA) | |
