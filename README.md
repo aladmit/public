@@ -6,17 +6,22 @@
 * [facebook](https://www.facebook.com/aladmit)
 * aleksandrov@hey.com
 
+## 2022
+| Название | Где | Видео | Презентация |
+| - | - | - | - |
+| Team Topologies для тимлида(участвовал в разработке, но не выступал) | TeamLeadConf 2022 | нет | [пост](https://enabling.team/team-topologies-for-teamleads) |
+| Выводы State of DevOps от DORA 2022 | канал dosepic | нет | нет |
+
 ## 2021
-| Название | Где |Видео | Презентация |
+| Название | Где | Видео | Презентация |
 | - | - | - | - |
 | Воркшоп по командным топологиям | DevOpsConf 2021 | нет | [пост](https://enabling.team/team-topologies-workshop) |
 | Топологии платформенных команд | DevOops 2021 | нет | [пост](https://enabling.team/team-topologies-for-platform-teams) |
-| Team Topologies для тимлида(участвовал в разработке, но не выступал) | TeamLeadConf 2021 | нет | [пост](https://enabling.team/team-topologies-for-teamleads) |
 
 ## 2020
 
 ### Доклады
-| Название | Где |Видео | Презентация |
+| Название | Где | Видео | Презентация |
 | - | - | - | - |
 | Почему Pulumi это охрененно, но при этом полное говно | DevOps Moscow meetup | [YouTube](https://www.youtube.com/watch?v=uUwfSNF-vfk&t=1036s) | [pdf](https://github.com/aladmit/public/blob/main/pdfs/Почему%20Pulumi%20это%20охрененно%2C%20но%20при%20этом%20полное%20говно.pdf) |
 | Calico изнутри. Архитектура и возможности | Mafin meetup | нет | [pdf](https://github.com/aladmit/public/blob/main/pdfs/Calico%20изнутри.%20Архитектура%20и%20возможности.pdf) |
