@@ -6,6 +6,11 @@
 * [facebook](https://www.facebook.com/aladmit)
 * aleksandrov@hey.com
 
+## 2023
+| Название | Где | Видео | Презентация |
+| - | - | - | - |
+| Кейс поиска дисфункций команд и их решения с Team Topologies | AgileDays 2023 | нет | [pdf](./pdfs/Кейс поиска дисфункций команд и их решения с Team Topologies.pdf)
+
 ## 2022
 | Название | Где | Видео | Презентация |
 | - | - | - | - |
