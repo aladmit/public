@@ -9,7 +9,7 @@
 ## 2023
 | Название | Где | Видео | Презентация |
 | - | - | - | - |
-| Кейс поиска дисфункций команд и их решения с Team Topologies | AgileDays 2023 | нет | [pdf](https://github.com/aladmit/public/blob/main/pdfs/Кейс%20поиска%20дисфункций%20команд%20и%20их%20решения%20с%20Team%20Topologies.pdf) |
+| Кейс поиска дисфункций команд и их решения с Team Topologies | AgileDays 2023 | [YouTube](https://www.youtube.com/watch?v=WBDGous4HKQ) | [pdf](https://github.com/aladmit/public/blob/main/pdfs/Кейс%20поиска%20дисфункций%20команд%20и%20их%20решения%20с%20Team%20Topologies.pdf) |
 
 ## 2022
 | Название | Где | Видео | Презентация |
