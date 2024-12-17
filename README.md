@@ -57,7 +57,7 @@
 ### Доклады
 | Название | Где | Видео | Презентация |
 | - | - | - | - |
-| Как начать DevOps-трансформацию | Whale Rider на РИТ++ | [YouTube](https://www.youtube.com/watch?v=voAm67851JU&feature=youtu.be) | нет |
+| Как начать DevOps-трансформацию | Whale Rider на РИТ++ | [YouTube](https://www.youtube.com/watch?v=voAm67851JU) | [pdf](https://github.com/aladmit/public/blob/main/pdfs/%D0%9A%D0%B0%D0%BA%20%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20DevOps-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E.pdf) |
 
 ### Выпуски подкаста DevOps Deflope с моим участием
 * [042 - Антон Исанин Трансформация Альфа-банк](https://devopsdeflope.ru/posts/2018/042.html)
